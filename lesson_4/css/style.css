@@ -1,0 +1,25 @@
+@import url("reset.css");
+.title {
+   color: blue;
+}
+.text {
+   color: orange
+}
+ul {
+   color: green
+}
+.first-film {
+   color: coral;
+}
+.second-film {
+color: blueviolet;
+}
+.third-films {
+   color: brown;
+}
+.fourth-film {
+   color: chocolate;
+}
+.fifth-film {
+   color: darkgreen;
+}
