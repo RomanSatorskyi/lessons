@@ -1,0 +1,118 @@
+/* Підключення шрифтів */ 
+@import url(fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Freehand:regular');
+/* Підключення вручну
+@import url("fonts.css");
+/* Скидання стилів */
+
+@import url(reset.css);
+
+
+
+.list-content {
+color: red;
+text-decoration: underline;
+}
+.title-first {
+   font-family: "FixelDisplay";
+   color: #6b77e5;
+   font-weight: 800;
+   text-decoration: underline;
+   text-align: center;
+   font-size: 50px;
+}
+.text-history {
+   font-family: "OpenSant";
+   text-align: right;
+   font-style: italic;
+   color: green;
+}
+.title-second {
+   font-family:"OpenSant";
+   text-shadow: 5px 10px 10px blue;
+   font-weight: 900;
+   font-size: 40px;
+
+
+}
+.text-appearance {
+text-decoration: underline;
+text-transform: capitalize;
+}
+.title-third {
+   text-shadow: -10px 10px 15px red;
+
+}
+.text-appointment {
+   font-family: "FixelDisplay";
+   text-transform: lowercase;
+   font-weight: 600;
+}
+
+.title-fourth {
+text-decoration: overline;
+font-size: 40px;
+}
+.text-other {
+   font-size: 20px;
+   white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Основні стилі */
+body {
+   font-family: "Inter", sant-serif; /*За замовченням */
+   font-size: 18px; 
+   color: #7d7d7d;
+   font-weight: 400;
+   line-height: 1.46;
+} 
+
+.title,
+.sub-title {
+   font-family: "Poppins", sant-serif;
+}
+.title {
+   font-size: 30px;
+   font-weight: 600;
+   color:#37393f;
+   line-height: 1.27;
+}
+.sub-title  {
+font-size: 20px;
+font-weight: 600;
+color:#6b77e5;
+line-height: 1.27;
+}
+.project-title {
+   font-family: Poppins;
+   font-size: 40px;
+   font-weight: 700;
+   color: #37393f;
+   line-height: 1.27;
+}
+.list {
+   font-weight: 500;
+}
+
